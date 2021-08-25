@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href = "styles.css">
+    <title>Temperature converter</title>
+  </head>
+  <body>
+    <div class="text">
+    <h1>Temperature Converter</h1>
+    <p>Celcius to Fahrenheit and Vice-versa</p>
+  </div>
+    <div class = "box">
+      <form id="tempcalc" onsubmit="calculateTemp(); return false">
+      <label for="temp">Enter temperature</label>
+        <input placeholder="0" type="number" name="temp" id = "temp">
+        <select name="temp_diff" id="temp_diff">
+          <option value="cel">°Celcius</option>
+          <option value="far">°Fahrenheit</option>
+        </select>
+        <br>
+    <input class="btn" type="submit" name="temp">
+      <br>
+    <span id="ans"></span>
+      </form>
+    </div>
+    <script src="script.js"></script>
+    </body>
+  </html>
