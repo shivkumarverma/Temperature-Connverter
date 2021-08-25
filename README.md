@@ -17,7 +17,7 @@ convert the temperature from °Celcius to °Fahrenheit and vice versa.
 
 ## Website Link
 
- https://shivkumarverma.github.io/The-Bulb/
+ https://shivkumarverma.github.io/Temperature-Connverter/
 
 
 ## screenshots
@@ -25,6 +25,7 @@ convert the temperature from °Celcius to °Fahrenheit and vice versa.
 ​
 <img src = "screenshots/Screenshot 2021-08-26 031035.png">
 ​
+<br>
 <img src = "screenshots/Screenshot 2021-08-26 030916.png">
 
 
